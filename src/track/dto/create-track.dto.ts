@@ -1,5 +1,5 @@
-export class CreateTrackDto{
-    readonly name;
-    readonly artist;
-    readonly text;
+export class CreateTrackDto {
+  name: string;
+  artist: string;
+  text: string;
 }
